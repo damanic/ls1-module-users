@@ -21,4 +21,4 @@
 #23 Added new API event: core:onUserBeforeSave
 #24 Minor improvement in the user permissions implementation
 #25 Minor fix in the users API
-#26 Use mysql compatible table name for user groups
+#26|1.0.26 Use mysql compatible table name for user groups
